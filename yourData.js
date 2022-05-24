@@ -3,8 +3,8 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
-  headerTaglineOne: "Hello 👋",
+  name: "vasanth",
+  headerTaglineOne: "Hello",
   headerTaglineTwo:
     "I'm Vasanth from Bannari Amman Institute of Technology ",
 
