@@ -6,14 +6,11 @@ export default {
   name: "chetan",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
-    "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
+    "I'm Vasanth from Bannari Amman Institute of Technology ",
 
   socials: [
-    { title: "Github", link: "https://github.com/chetanverma16" },
-    { title: "LinkedIn", link: "https://www.linkedin.com/in/chetanverma7/" },
-    { title: "Twitter", link: "https://twitter.com/realchetanverma" },
-    { title: "Blog", link: "https://blog.chetanverma.com/" },
-    { title: "Email", link: "mailto:hello@chetanverma.com" },
+    { title: "Github", link: "https://github.com/Vasanth11111" },
+    { title: "Email", link: "mailto:vasanth.al21@bitsathy.ac.in" },
   ],
 
   // End Header Details -----------------------
